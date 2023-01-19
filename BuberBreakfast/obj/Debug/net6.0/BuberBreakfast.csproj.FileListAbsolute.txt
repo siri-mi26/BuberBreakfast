@@ -27,3 +27,4 @@ C:\Users\purpl\Desktop\FreeCodeCamp\BuberBreakfast\BuberBreakfast\obj\Debug\net6
 C:\Users\purpl\Desktop\FreeCodeCamp\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BuberBreakfast.props
 C:\Users\purpl\Desktop\FreeCodeCamp\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BuberBreakfast.props
 C:\Users\purpl\Desktop\FreeCodeCamp\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\purpl\Desktop\FreeCodeCamp\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\ErrorOr.dll
