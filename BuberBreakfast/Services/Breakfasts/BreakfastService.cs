@@ -1,3 +1,4 @@
+
 using BuberBreakfast.Models;
 namespace BuberBreakfast.Services.Breakfasts;
 
@@ -10,5 +11,18 @@ public class BreakfastService : IBreakfastService{
     public Breakfast GetBreakfast(Guid id)
     {
         return _breakfasts[id];
+    }
+
+
+
+    public void DeleteBreakfast(Guid id)
+    {
+        _breakfasts.Remove(id);
+    }
+
+  
+    public void UpsertBreakfast(Breakfast breakfast)
+    {
+        throw new NotImplementedException();
     }
 }
